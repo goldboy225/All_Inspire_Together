@@ -10,7 +10,7 @@ This repository serves as a personal thinking space to:
 - Build long-term research intuition
 
 ## 🧩 Structure
-- `ideas/` → Individual paper reflections
+- `ideas/` → Individual paper reflections 👉 [Open Ideas Table](ideas.md)
 - `themes/` → Cross-paper insights
 - `templates/` → Standardized note format
 
