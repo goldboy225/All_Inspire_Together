@@ -1,4 +1,4 @@
-# All Inspire Together
+# 💡 All Inspire Together
 
 A growing collection of ideas sparked while reading research papers.
 
